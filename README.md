@@ -4,10 +4,14 @@ It will automatically read input file from input folder , it should be named as 
 output file will be generated in output file named as 'DCache.txt' and 'Output.txt'.
 
 
+
+
+
+
+
+
 Overview of Project.
 
-Pipelined Processor Design (CS2600 Course Project) Apr. 2024
-Prof Chester Rebeiro
 – Utilized object-oriented programming in C++ to develop a simulator for a five-stage scalar pipelined RISC
 processor, enhancing execution speed with parallel stage execution and advanced cache design.
 – Implemented and tested sophisticated hazard detection mechanisms, measuring performance by counting
